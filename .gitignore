@@ -2,3 +2,8 @@ Library/
 ProjectSettings/NetworkManager.asset
 ProjectSettings/
 Temp/
+obj/
+UMath2dExtension.sln
+UMath2dExtension.CSharp.csproj
+Assembly-CSharp.csproj
+.vs/UMath2dExtension/v16/.suo
